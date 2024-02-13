@@ -27,8 +27,6 @@ O recurso é criado ao selecionar a opção "*Consultar + Criar*". Após a aprov
 
 Criado o recurso, clique no botão "*Ir para o Recurso*",direcionando à página correspondente ao recurso.
 
-![Img](./images/img02.png)
-
 Conforme a imagem abaixo, há o botão"*Iniciar o Estúdio*", que  redireciona ao estúdio do **Azure Machine Learning**. 
 
 ![Img](./images/img03.png)
@@ -130,6 +128,6 @@ Print com o resultado:
 
 ### *Referências*:
 
-- Explore Automated Machine Learning in Azure Machine Learning - [*Microsoft Learn*](https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/01-machine-learning.html)
+- [*Microsoft Learn*](https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/01-machine-learning.html)
 
 - [Fonte de dados](https://raw.githubusercontent.com/MicrosoftLearning/mslearn-ai-fundamentals/main/data/ml/daily-bike-share.csv)

@@ -21,9 +21,7 @@ Em seguida, na seção "*Detalhes da Área de Trabalho*", deve-se fornecer os de
 
 ![Img](./images/img01.png)
 
-O recurso é criado ao selecionar a opção "*Consultar + Criar*". Após a aprovação da validação, clique em "*Criar*".
-
-<br>
+O recurso é criado ao selecionar a opção "*Consultar + Criar*". Após a aprovação da validação, clique em "*Criar*".  
 
 Criado o recurso, clique no botão "*Ir para o Recurso*",direcionando à página correspondente ao recurso.
 
